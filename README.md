@@ -1,5 +1,5 @@
 # CalculadoraIMC
-Projeto  experimental desenvolvido em Java, utilizando Interface Gráfica JavaFX que realiza o cálculo do Índice de Massa Corpórea (IMC).
+Projeto experimental desenvolvido em Java, utilizando Interface Gráfica JavaFX que realiza o cálculo do Índice de Massa Corpórea (IMC).
 
 O projeto apresentado consiste em um projeto simples realizado com o intuito de familiarização com a linguagem Java utilizando uma Interface Gráfica do Usuário (GUI) desenvolvida com a biblioteca JavaFX.
 
